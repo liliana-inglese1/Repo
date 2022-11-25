@@ -1,7 +1,7 @@
 phrase:
   access_token: Ac344b3145b6c46fdeab3f7d748cb35417f60d9a9b14d09156f3219b917d7e39a
   project_id: 143260e1a854a858706778b424002e82
-  file_format: arb
+  file_format: .arb
 
   push:
     sources:
