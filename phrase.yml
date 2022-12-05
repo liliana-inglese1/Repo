@@ -3,7 +3,7 @@ phrase:
 
   push:
     sources:
-      - file: ./go_i18n.json
+      - file: go_i18n.json
         params:
           file_format: go_i18n
           locale_id: en
@@ -12,6 +12,6 @@ phrase:
 
   pull:
     targets:
-      - file: ./go_i18n.json
+      - file: go_i18n.json
         params:
           file_format: go_i18n
